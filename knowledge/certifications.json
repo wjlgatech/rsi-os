@@ -33,6 +33,25 @@
   ],
   "certifications": [
     {
+      "id": "K-Dense-AI/scientific-agent-skills",
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "kind": "skill",
+      "category": "\ud83e\udde9 Agent Skill",
+      "tier": "\ud83e\udd48 Verified",
+      "scores": {
+        "relevant": 80,
+        "maintained": 100,
+        "adopted": 100,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 43513,
+        "pushed": "2026-09-07"
+      }
+    },
+    {
       "id": "repo:stanfordnlp-dspy",
       "name": "stanfordnlp/dspy",
       "url": "https://github.com/stanfordnlp/dspy",
@@ -43,21 +62,12 @@
         "relevant": 60,
         "maintained": 100,
         "adopted": 100,
-        "works": 71,
-        "safe": 40
+        "works": "not_measured",
+        "safe": "not_measured"
       },
       "evidence": {
-        "stars": 36130,
-        "pushed": "2026-07-14",
-        "deep": {
-          "works": 71,
-          "safe": 40,
-          "safety_findings": [
-            "risky exec pattern in dspy/primitives/python_interpreter.py",
-            "risky exec pattern in docs/docs/learn/programming/language_models.md",
-            "risky exec pattern in docs/docs/api/modules/RLM.md"
-          ]
-        }
+        "stars": 37823,
+        "pushed": "2026-09-05"
       }
     },
     {
@@ -71,26 +81,31 @@
         "relevant": 80,
         "maintained": 100,
         "adopted": 100,
-        "works": 74,
-        "safe": 0
+        "works": "not_measured",
+        "safe": "not_measured"
       },
       "evidence": {
-        "stars": 23793,
-        "pushed": "2026-07-03",
-        "deep": {
-          "works": 74,
-          "safe": 0,
-          "safety_findings": [
-            "committed secret pattern in tests/test_crypto_utils.py",
-            "risky exec pattern in tests/utils.py",
-            "risky exec pattern in .github/workflows/poetry-publish.yml",
-            "risky exec pattern in .github/workflows/lint-command.yml",
-            "risky exec pattern in .github/workflows/poetry-publish-nightly.yml",
-            "risky exec pattern in .github/workflows/reusable-test-workflow.yml",
-            "risky exec pattern in .github/workflows/docker-integration-tests.yaml",
-            "risky exec pattern in .github/workflows/alembic-validation.yml"
-          ]
-        }
+        "stars": 24640,
+        "pushed": "2026-08-23"
+      }
+    },
+    {
+      "id": "PrimeIntellect-ai/prime-agent",
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "kind": "repo",
+      "category": "\ud83c\udd95 Tool",
+      "tier": "\ud83e\udd48 Verified",
+      "scores": {
+        "relevant": 80,
+        "maintained": 100,
+        "adopted": 100,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 20103,
+        "pushed": "2026-09-07"
       }
     },
     {
@@ -104,19 +119,12 @@
         "relevant": 60,
         "maintained": 60,
         "adopted": 100,
-        "works": 46,
-        "safe": 80
+        "works": "not_measured",
+        "safe": "not_measured"
       },
       "evidence": {
-        "stars": 14224,
-        "pushed": "2025-12-19",
-        "deep": {
-          "works": 46,
-          "safe": 80,
-          "safety_findings": [
-            "risky exec pattern in templates/tensorf/dataLoader/colmap2nerf.py"
-          ]
-        }
+        "stars": 14505,
+        "pushed": "2025-12-19"
       }
     },
     {
@@ -130,26 +138,12 @@
         "relevant": 80,
         "maintained": 100,
         "adopted": 80,
-        "works": 84,
-        "safe": 0
+        "works": "not_measured",
+        "safe": "not_measured"
       },
       "evidence": {
-        "stars": 8448,
-        "pushed": "2026-07-14",
-        "deep": {
-          "works": 84,
-          "safe": 0,
-          "safety_findings": [
-            "risky exec pattern in install.sh",
-            "risky exec pattern in README.md",
-            "risky exec pattern in examples/python/cli/sandbox_execution_example.py",
-            "risky exec pattern in examples/js/ai-sdk/tool-approval.ts",
-            "risky exec pattern in examples/terminal_bench/test_agent_comparison.py",
-            "risky exec pattern in .github/workflows/test-comprehensive.yml",
-            "risky exec pattern in .github/workflows/test-core.yml",
-            "risky exec pattern in .github/workflows/test-extended.yml"
-          ]
-        }
+        "stars": 9027,
+        "pushed": "2026-09-07"
       }
     },
     {
@@ -163,36 +157,31 @@
         "relevant": 60,
         "maintained": 60,
         "adopted": 80,
-        "works": 50,
-        "safe": 100
+        "works": "not_measured",
+        "safe": "not_measured"
       },
       "evidence": {
-        "stars": 6824,
-        "pushed": "2025-12-19",
-        "deep": {
-          "works": 50,
-          "safe": 100,
-          "safety_findings": []
-        }
+        "stars": 7100,
+        "pushed": "2025-12-19"
       }
     },
     {
-      "id": "repo:samuelschmidgall-agentlaboratory",
-      "name": "SamuelSchmidgall/AgentLaboratory",
-      "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+      "id": "EverMind-AI/Raven",
+      "name": "EverMind-AI/Raven",
+      "url": "https://github.com/EverMind-AI/Raven",
       "kind": "repo",
-      "category": "Core Frameworks",
+      "category": "\ud83c\udd95 Tool",
       "tier": "\ud83e\udd48 Verified",
       "scores": {
-        "relevant": 60,
-        "maintained": 60,
+        "relevant": 80,
+        "maintained": 100,
         "adopted": 80,
         "works": "not_measured",
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 5749,
-        "pushed": "2025-08-20"
+        "stars": 3772,
+        "pushed": "2026-09-07"
       }
     },
     {
@@ -210,37 +199,27 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 2637,
-        "pushed": "2026-05-09"
+        "stars": 2712,
+        "pushed": "2026-07-31"
       }
     },
     {
-      "id": "repo:jennyzzt-dgm",
-      "name": "jennyzzt/dgm",
-      "url": "https://github.com/jennyzzt/dgm",
-      "kind": "repo",
-      "category": "Open-Ended Learning",
+      "id": "PhyAgentOS/PhyAgentOS-core",
+      "name": "PhyAgentOS/PhyAgentOS-core",
+      "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
+      "kind": "workflow",
+      "category": "\ud83d\udd00 Workflow",
       "tier": "\ud83e\udd48 Verified",
       "scores": {
         "relevant": 100,
-        "maintained": 60,
+        "maintained": 100,
         "adopted": 80,
-        "works": 46,
-        "safe": 20
+        "works": "not_measured",
+        "safe": "not_measured"
       },
       "evidence": {
-        "stars": 2177,
-        "pushed": "2025-08-13",
-        "deep": {
-          "works": 46,
-          "safe": 20,
-          "safety_findings": [
-            "risky exec pattern in DGM_outer.py",
-            "risky exec pattern in self_improve_step.py",
-            "risky exec pattern in initial/predictions/initial_0/sphinx-doc__sphinx-7748.md",
-            "risky exec pattern in polyglot/dockerfiles.py"
-          ]
-        }
+        "stars": 2092,
+        "pushed": "2026-09-07"
       }
     },
     {
@@ -258,8 +237,46 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 1624,
+        "stars": 1739,
         "pushed": "2026-04-24"
+      }
+    },
+    {
+      "id": "repo:metauto-ai-gptswarm",
+      "name": "metauto-ai/GPTSwarm",
+      "url": "https://github.com/metauto-ai/GPTSwarm",
+      "kind": "repo",
+      "category": "Core Frameworks",
+      "tier": "\ud83e\udd48 Verified",
+      "scores": {
+        "relevant": 60,
+        "maintained": 60,
+        "adopted": 80,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 1041,
+        "pushed": "2026-02-05"
+      }
+    },
+    {
+      "id": "juanjuandog/FinSight-AI",
+      "name": "juanjuandog/FinSight-AI",
+      "url": "https://github.com/juanjuandog/FinSight-AI",
+      "kind": "repo",
+      "category": "\ud83c\udd95 Tool",
+      "tier": "\ud83e\udd48 Verified",
+      "scores": {
+        "relevant": 80,
+        "maintained": 100,
+        "adopted": 80,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 1031,
+        "pushed": "2026-09-02"
       }
     },
     {
@@ -277,7 +294,7 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 867,
+        "stars": 949,
         "pushed": "2026-07-01"
       }
     },
@@ -296,27 +313,27 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 798,
+        "stars": 824,
         "pushed": "2026-03-28"
       }
     },
     {
-      "id": "repo:facebookresearch-mlgym",
-      "name": "facebookresearch/MLGym",
-      "url": "https://github.com/facebookresearch/MLGym",
-      "kind": "repo",
-      "category": "Benchmarks & Evaluation",
+      "id": "mario-andreschak/FLUJO",
+      "name": "mario-andreschak/FLUJO",
+      "url": "https://github.com/mario-andreschak/FLUJO",
+      "kind": "workflow",
+      "category": "\ud83d\udd00 Workflow",
       "tier": "\ud83e\udd48 Verified",
       "scores": {
         "relevant": 80,
-        "maintained": 60,
+        "maintained": 100,
         "adopted": 60,
         "works": "not_measured",
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 612,
-        "pushed": "2025-08-10"
+        "stars": 621,
+        "pushed": "2026-09-07"
       }
     },
     {
@@ -334,84 +351,27 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 354,
+        "stars": 413,
         "pushed": "2026-06-19"
       }
     },
     {
-      "id": "andylow92/file-system-like-github",
-      "name": "andylow92/file-system-like-github",
-      "url": "https://github.com/andylow92/file-system-like-github",
-      "kind": "mcp",
-      "category": "\ud83d\udd0c MCP Server",
-      "tier": "\ud83e\udd48 Verified",
-      "scores": {
-        "relevant": 80,
-        "maintained": 100,
-        "adopted": 60,
-        "works": "not_measured",
-        "safe": "not_measured"
-      },
-      "evidence": {
-        "stars": 294,
-        "pushed": "2026-07-11"
-      }
-    },
-    {
-      "id": "Undertone0809/rudder",
-      "name": "Undertone0809/rudder",
-      "url": "https://github.com/Undertone0809/rudder",
+      "id": "IncomeStreamSurfer/paperclip-surfers",
+      "name": "IncomeStreamSurfer/paperclip-surfers",
+      "url": "https://github.com/IncomeStreamSurfer/paperclip-surfers",
       "kind": "skill",
       "category": "\ud83e\udde9 Agent Skill",
       "tier": "\ud83e\udd48 Verified",
       "scores": {
         "relevant": 80,
         "maintained": 100,
-        "adopted": 60,
+        "adopted": 40,
         "works": "not_measured",
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 231,
-        "pushed": "2026-07-14"
-      }
-    },
-    {
-      "id": "bitrouter/bitrouter",
-      "name": "bitrouter/bitrouter",
-      "url": "https://github.com/bitrouter/bitrouter",
-      "kind": "workflow",
-      "category": "\ud83d\udd00 Workflow",
-      "tier": "\ud83e\udd48 Verified",
-      "scores": {
-        "relevant": 80,
-        "maintained": 100,
-        "adopted": 60,
-        "works": "not_measured",
-        "safe": "not_measured"
-      },
-      "evidence": {
-        "stars": 204,
-        "pushed": "2026-07-15"
-      }
-    },
-    {
-      "id": "getnao/sylph",
-      "name": "getnao/sylph",
-      "url": "https://github.com/getnao/sylph",
-      "kind": "skill",
-      "category": "\ud83e\udde9 Agent Skill",
-      "tier": "\ud83e\udd48 Verified",
-      "scores": {
-        "relevant": 80,
-        "maintained": 100,
-        "adopted": 60,
-        "works": "not_measured",
-        "safe": "not_measured"
-      },
-      "evidence": {
-        "stars": 165,
-        "pushed": "2026-05-21"
+        "stars": 74,
+        "pushed": "2026-03-30"
       }
     },
     {
@@ -429,32 +389,8 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 34,
+        "stars": 36,
         "pushed": "2026-03-30"
-      }
-    },
-    {
-      "id": "kiliman/codemesh",
-      "name": "kiliman/codemesh",
-      "url": "https://github.com/kiliman/codemesh",
-      "kind": "mcp",
-      "category": "\ud83d\udd0c MCP Server",
-      "tier": "\ud83e\udd48 Verified",
-      "scores": {
-        "relevant": 80,
-        "maintained": 60,
-        "adopted": 40,
-        "works": 0,
-        "safe": 100
-      },
-      "evidence": {
-        "stars": 24,
-        "pushed": "2025-11-03",
-        "deep": {
-          "works": 0,
-          "safe": 100,
-          "safety_findings": []
-        }
       }
     },
     {
@@ -491,8 +427,27 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 7052,
+        "stars": 7180,
         "pushed": "2024-04-03"
+      }
+    },
+    {
+      "id": "repo:samuelschmidgall-agentlaboratory",
+      "name": "SamuelSchmidgall/AgentLaboratory",
+      "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
+      "kind": "repo",
+      "category": "Core Frameworks",
+      "tier": "\ud83e\udd49 Listed",
+      "scores": {
+        "relevant": 60,
+        "maintained": 20,
+        "adopted": 80,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 5831,
+        "pushed": "2025-08-20"
       }
     },
     {
@@ -515,6 +470,25 @@
       }
     },
     {
+      "id": "kirodotdev/KiroCrew",
+      "name": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "kind": "repo",
+      "category": "\ud83c\udd95 Tool",
+      "tier": "\ud83e\udd49 Listed",
+      "scores": {
+        "relevant": 40,
+        "maintained": 100,
+        "adopted": 80,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 3691,
+        "pushed": "2026-09-07"
+      }
+    },
+    {
       "id": "repo:eureka-research-eureka",
       "name": "eureka-research/Eureka",
       "url": "https://github.com/eureka-research/Eureka",
@@ -525,19 +499,12 @@
         "relevant": 60,
         "maintained": 20,
         "adopted": 80,
-        "works": 49,
-        "safe": 80
+        "works": "not_measured",
+        "safe": "not_measured"
       },
       "evidence": {
-        "stars": 3175,
-        "pushed": "2024-05-03",
-        "deep": {
-          "works": 49,
-          "safe": 80,
-          "safety_findings": [
-            "risky exec pattern in isaacgymenvs/assets/urdf/kuka_allegro_description/meshes/convert_stl2obj.py"
-          ]
-        }
+        "stars": 3193,
+        "pushed": "2024-05-03"
       }
     },
     {
@@ -549,14 +516,33 @@
       "tier": "\ud83e\udd49 Listed",
       "scores": {
         "relevant": 40,
+        "maintained": 100,
+        "adopted": 80,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 3014,
+        "pushed": "2026-09-02"
+      }
+    },
+    {
+      "id": "repo:jennyzzt-dgm",
+      "name": "jennyzzt/dgm",
+      "url": "https://github.com/jennyzzt/dgm",
+      "kind": "repo",
+      "category": "Open-Ended Learning",
+      "tier": "\ud83e\udd49 Listed",
+      "scores": {
+        "relevant": 100,
         "maintained": 20,
         "adopted": 80,
         "works": "not_measured",
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 2979,
-        "pushed": "2024-12-14"
+        "stars": 2283,
+        "pushed": "2025-08-13"
       }
     },
     {
@@ -574,27 +560,8 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 1614,
+        "stars": 1636,
         "pushed": "2025-01-28"
-      }
-    },
-    {
-      "id": "repo:google-deepmind-funsearch",
-      "name": "google-deepmind/funsearch",
-      "url": "https://github.com/google-deepmind/funsearch",
-      "kind": "repo",
-      "category": "Core Frameworks",
-      "tier": "\ud83e\udd49 Listed",
-      "scores": {
-        "relevant": 60,
-        "maintained": 20,
-        "adopted": 80,
-        "works": "not_measured",
-        "safe": "not_measured"
-      },
-      "evidence": {
-        "stars": 1091,
-        "pushed": "2024-02-05"
       }
     },
     {
@@ -612,8 +579,27 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 1025,
-        "pushed": "2026-06-11"
+        "stars": 1166,
+        "pushed": "2026-09-07"
+      }
+    },
+    {
+      "id": "repo:google-deepmind-funsearch",
+      "name": "google-deepmind/funsearch",
+      "url": "https://github.com/google-deepmind/funsearch",
+      "kind": "repo",
+      "category": "Core Frameworks",
+      "tier": "\ud83e\udd49 Listed",
+      "scores": {
+        "relevant": 60,
+        "maintained": 20,
+        "adopted": 80,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 1116,
+        "pushed": "2024-02-05"
       }
     },
     {
@@ -650,8 +636,27 @@
         "safe": "not_measured"
       },
       "evidence": {
-        "stars": 764,
+        "stars": 774,
         "pushed": "2024-12-04"
+      }
+    },
+    {
+      "id": "repo:facebookresearch-mlgym",
+      "name": "facebookresearch/MLGym",
+      "url": "https://github.com/facebookresearch/MLGym",
+      "kind": "repo",
+      "category": "Benchmarks & Evaluation",
+      "tier": "\ud83e\udd49 Listed",
+      "scores": {
+        "relevant": 80,
+        "maintained": 20,
+        "adopted": 60,
+        "works": "not_measured",
+        "safe": "not_measured"
+      },
+      "evidence": {
+        "stars": 622,
+        "pushed": "2025-08-10"
       }
     },
     {
@@ -807,49 +812,11 @@
       }
     },
     {
-      "id": "repo:metauto-ai-gptswarm",
-      "name": "metauto-ai/GPTSwarm",
-      "url": "https://github.com/metauto-ai/GPTSwarm",
-      "kind": "repo",
-      "category": "Core Frameworks",
-      "tier": "\ud83e\udd49 Listed",
-      "scores": {
-        "relevant": 60,
-        "maintained": "not_measured",
-        "adopted": 40,
-        "works": "not_measured",
-        "safe": "not_measured"
-      },
-      "evidence": {
-        "stars": 1,
-        "pushed": null
-      }
-    },
-    {
       "id": "repo:wjlgatech-tooluniverse",
       "name": "wjlgatech/ToolUniverse",
       "url": "https://github.com/wjlgatech/ToolUniverse",
       "kind": "repo",
       "category": "Infrastructure & Utilities",
-      "tier": "\ud83e\udd49 Listed",
-      "scores": {
-        "relevant": 60,
-        "maintained": "not_measured",
-        "adopted": "not_measured",
-        "works": "not_measured",
-        "safe": "not_measured"
-      },
-      "evidence": {
-        "stars": null,
-        "pushed": null
-      }
-    },
-    {
-      "id": "repo:elianovg-awesome-automated-research",
-      "name": "Elianovg/awesome-automated-research",
-      "url": "https://github.com/Elianovg/awesome-automated-research",
-      "kind": "repo",
-      "category": "Existing \"Awesome\" Lists & What's Missing",
       "tier": "\ud83e\udd49 Listed",
       "scores": {
         "relevant": 60,
