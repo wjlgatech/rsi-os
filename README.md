@@ -375,6 +375,23 @@ Every top repo cited here is minted into a reusable **agentic skill** + a knowle
 
 ---
 
+## 🛰️ Frontier Radar
+
+_The latest surfaced from the people we follow via open arXiv/GitHub APIs (`scripts/track.py`, refreshed weekly). Surname-matched — verify the author._
+
+| Researcher | Most recent work | Date |
+|-----------|------------------|------|
+| Caiming Xiong | [Robust Coverless Linguistic Steganography via Sentence Embedding Space with Global Resynchronization](http://arxiv.org/abs/2609.04970v1) | 2026-09-04 |
+| Chris Lu | [TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation](http://arxiv.org/abs/2609.05266v1) | 2026-09-04 |
+| Cong Lu | [TacPAC: Tactile Prediction and Real-Time Action Correction in World-Action Models for Contact-Rich Manipulation](http://arxiv.org/abs/2609.05266v1) | 2026-09-04 |
+| David Ha | [Cosmological Evolution of the Randall-Sundrum II Model with Running Vacuum: A Special Class of Solutions](http://arxiv.org/abs/2609.05168v1) | 2026-09-04 |
+| Jenny Zhang | [WorldSculpt: Generating Compositional Worlds from Grounded Videos](http://arxiv.org/abs/2609.05416v1) | 2026-09-04 |
+| Jianguo Zhang | [WorldSculpt: Generating Compositional Worlds from Grounded Videos](http://arxiv.org/abs/2609.05416v1) | 2026-09-04 |
+| Minqi Jiang | [Embedded Graph Flows for Categorical Graph Generation](http://arxiv.org/abs/2609.05328v1) | 2026-09-04 |
+| Shengran Hu | [A Deep Generative Model for Synthesizing Labeled Wireless Signals](http://arxiv.org/abs/2609.05396v1) | 2026-09-04 |
+
+---
+
 ## 📅 Timeline: Key Milestones
 
 ```
