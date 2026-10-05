@@ -4,15 +4,45 @@
     {
       "domain": "tooling",
       "kind": "workflow",
-      "id": "bitrouter/bitrouter",
-      "title": "bitrouter/bitrouter",
-      "url": "https://github.com/bitrouter/bitrouter",
-      "score": 204,
+      "id": "PrimeIntellect-ai/prime-agent",
+      "title": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "score": 21545,
       "action": "add",
       "evidence": {
-        "stars": 204,
-        "pushed": "2026-07-15",
-        "desc": "The self-improving LLM router that optimize your agentic workflows with every runs, works with any harnesses, any models, any loops.",
+        "stars": 21545,
+        "pushed": "2026-10-05",
+        "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+        "matched": "agent workflow self-improving"
+      }
+    },
+    {
+      "domain": "tooling",
+      "kind": "workflow",
+      "id": "PhyAgentOS/PhyAgentOS-core",
+      "title": "PhyAgentOS/PhyAgentOS-core",
+      "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
+      "score": 2711,
+      "action": "add",
+      "evidence": {
+        "stars": 2711,
+        "pushed": "2026-10-05",
+        "desc": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-improve through agen",
+        "matched": "agent workflow self-improving"
+      }
+    },
+    {
+      "domain": "tooling",
+      "kind": "workflow",
+      "id": "mario-andreschak/FLUJO",
+      "title": "mario-andreschak/FLUJO",
+      "url": "https://github.com/mario-andreschak/FLUJO",
+      "score": 635,
+      "action": "add",
+      "evidence": {
+        "stars": 635,
+        "pushed": "2026-10-05",
+        "desc": "Multi-Agent + Automation Harness: Graph-based Workflows, MCP, Self-Improving Agents. NextJs+React",
         "matched": "agent workflow self-improving"
       }
     },
@@ -22,12 +52,27 @@
       "id": "HashWarlock/nobody-plans-for-pi",
       "title": "HashWarlock/nobody-plans-for-pi",
       "url": "https://github.com/HashWarlock/nobody-plans-for-pi",
-      "score": 34,
+      "score": 37,
       "action": "add",
       "evidence": {
-        "stars": 34,
+        "stars": 37,
         "pushed": "2026-03-30",
         "desc": "Self-improving development workflows for pi coding agent. Subagent orchestration, TDD, systematic debugging. Adapted from obra/superpowers.",
+        "matched": "agent workflow self-improving"
+      }
+    },
+    {
+      "domain": "tooling",
+      "kind": "workflow",
+      "id": "GeekFamilyCorp/TricorderKit",
+      "title": "GeekFamilyCorp/TricorderKit",
+      "url": "https://github.com/GeekFamilyCorp/TricorderKit",
+      "score": 30,
+      "action": "add",
+      "evidence": {
+        "stars": 30,
+        "pushed": "2026-08-18",
+        "desc": "The local-first Agentic Knowledge OS - CLI-first, self-improving, measured. Turn intentions into traceable, auditable, reusable workflows. R",
         "matched": "agent workflow self-improving"
       }
     }
