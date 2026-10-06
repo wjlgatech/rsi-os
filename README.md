@@ -375,6 +375,23 @@ Every top repo cited here is minted into a reusable **agentic skill** + a knowle
 
 ---
 
+## 🛰️ Frontier Radar
+
+_The latest surfaced from the people we follow via open arXiv/GitHub APIs (`scripts/track.py`, refreshed weekly). Surname-matched — verify the author._
+
+| Researcher | Most recent work | Date |
+|-----------|------------------|------|
+| Caiming Xiong | [ChronoWorld: Camera-Controlled Consistent 4D World Generation via Spatiotemporal Cues and Geometric Reflections](http://arxiv.org/abs/2610.06687v1) | 2026-10-05 |
+| Chris Lu | [Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report](http://arxiv.org/abs/2610.06837v1) | 2026-10-05 |
+| Cong Lu | [Anatomy-aware Fine-grained Multimodal Fusion for Laryngopharyngeal Cancer T-Staging Prediction Using CT and Radiology Report](http://arxiv.org/abs/2610.06837v1) | 2026-10-05 |
+| David Ha | [On the asymptotic Makar-Limanov rank conjecture](http://arxiv.org/abs/2610.06800v1) | 2026-10-05 |
+| Jenny Zhang | [InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation](http://arxiv.org/abs/2610.06850v1) | 2026-10-05 |
+| Jianguo Zhang | [InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation](http://arxiv.org/abs/2610.06850v1) | 2026-10-05 |
+| Mingchen Zhuge | [Status and Progress of Hamiltonian Effective Field Theory in Light Hadron Spectroscopy](http://arxiv.org/abs/2610.06075v1) | 2026-10-05 |
+| Minqi Jiang | [TAPDreamer: Transferable Adversarial Patches for World Action Models](http://arxiv.org/abs/2610.06814v1) | 2026-10-05 |
+
+---
+
 ## 📅 Timeline: Key Milestones
 
 ```
