@@ -7,11 +7,11 @@
       "id": "MineDojo/Voyager",
       "title": "MineDojo/Voyager",
       "url": "https://github.com/MineDojo/Voyager",
-      "score": 7052,
+      "score": 7273,
       "action": "refresh",
       "evidence": {
-        "printed": 5500,
-        "live": 7052,
+        "printed": 5000,
+        "live": 7273,
         "pushed": "2024-04-03"
       }
     },
@@ -21,11 +21,11 @@
       "id": "SakanaAI/AI-Scientist",
       "title": "SakanaAI/AI-Scientist",
       "url": "https://github.com/SakanaAI/AI-Scientist",
-      "score": 14224,
+      "score": 14765,
       "action": "refresh",
       "evidence": {
         "printed": 10000,
-        "live": 14224,
+        "live": 14765,
         "pushed": "2025-12-19"
       }
     },
@@ -35,11 +35,11 @@
       "id": "SakanaAI/AI-Scientist-v2",
       "title": "SakanaAI/AI-Scientist-v2",
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "score": 6824,
+      "score": 7372,
       "action": "refresh",
       "evidence": {
         "printed": 4000,
-        "live": 6824,
+        "live": 7372,
         "pushed": "2025-12-19"
       }
     },
@@ -49,11 +49,11 @@
       "id": "SamuelSchmidgall/AgentLaboratory",
       "title": "SamuelSchmidgall/AgentLaboratory",
       "url": "https://github.com/SamuelSchmidgall/AgentLaboratory",
-      "score": 5749,
+      "score": 5904,
       "action": "refresh",
       "evidence": {
         "printed": 2000,
-        "live": 5749,
+        "live": 5904,
         "pushed": "2025-08-20"
       }
     },
@@ -63,11 +63,11 @@
       "id": "ShengranHu/ADAS",
       "title": "ShengranHu/ADAS",
       "url": "https://github.com/ShengranHu/ADAS",
-      "score": 1614,
+      "score": 1650,
       "action": "refresh",
       "evidence": {
         "printed": 800,
-        "live": 1614,
+        "live": 1650,
         "pushed": "2025-01-28"
       }
     },
@@ -77,11 +77,11 @@
       "id": "eureka-research/Eureka",
       "title": "eureka-research/Eureka",
       "url": "https://github.com/eureka-research/Eureka",
-      "score": 3175,
+      "score": 3212,
       "action": "refresh",
       "evidence": {
         "printed": 2000,
-        "live": 3175,
+        "live": 3212,
         "pushed": "2024-05-03"
       }
     },
@@ -91,26 +91,12 @@
       "id": "facebookresearch/MLGym",
       "title": "facebookresearch/MLGym",
       "url": "https://github.com/facebookresearch/MLGym",
-      "score": 612,
+      "score": 626,
       "action": "refresh",
       "evidence": {
         "printed": 400,
-        "live": 612,
+        "live": 626,
         "pushed": "2025-08-10"
-      }
-    },
-    {
-      "domain": "tooling",
-      "kind": "repo",
-      "id": "facebookresearch/coconut",
-      "title": "facebookresearch/coconut",
-      "url": "https://github.com/facebookresearch/coconut",
-      "score": 1663,
-      "action": "refresh",
-      "evidence": {
-        "printed": 570,
-        "live": 1663,
-        "pushed": "2026-07-02"
       }
     },
     {
@@ -133,11 +119,11 @@
       "id": "geekan/MetaGPT",
       "title": "geekan/MetaGPT",
       "url": "https://github.com/FoundationAgents/MetaGPT",
-      "score": 69374,
+      "score": 70922,
       "action": "refresh",
       "evidence": {
         "printed": 48000,
-        "live": 69374,
+        "live": 70922,
         "pushed": "2026-01-21"
       }
     },
@@ -147,11 +133,11 @@
       "id": "google-deepmind/funsearch",
       "title": "google-deepmind/funsearch",
       "url": "https://github.com/google-deepmind/funsearch",
-      "score": 1091,
+      "score": 1134,
       "action": "refresh",
       "evidence": {
         "printed": 3000,
-        "live": 1091,
+        "live": 1134,
         "pushed": "2024-02-05"
       }
     },
@@ -161,11 +147,11 @@
       "id": "google-deepmind/opro",
       "title": "google-deepmind/opro",
       "url": "https://github.com/google-deepmind/opro",
-      "score": 764,
+      "score": 784,
       "action": "refresh",
       "evidence": {
-        "printed": 1500,
-        "live": 764,
+        "printed": 1,
+        "live": 784,
         "pushed": "2024-12-04"
       }
     },
@@ -175,26 +161,26 @@
       "id": "jennyzzt/dgm",
       "title": "jennyzzt/dgm",
       "url": "https://github.com/jennyzzt/dgm",
-      "score": 2177,
+      "score": 2434,
       "action": "refresh",
       "evidence": {
         "printed": 600,
-        "live": 2177,
+        "live": 2434,
         "pushed": "2025-08-13"
       }
     },
     {
       "domain": "tooling",
       "kind": "repo",
-      "id": "jiaweizzhao/GaLore",
-      "title": "jiaweizzhao/GaLore",
-      "url": "https://github.com/jiaweizzhao/GaLore",
-      "score": 1699,
+      "id": "metauto-ai/GPTSwarm",
+      "title": "metauto-ai/GPTSwarm",
+      "url": "https://github.com/metauto-ai/GPTSwarm",
+      "score": 1052,
       "action": "refresh",
       "evidence": {
-        "printed": 800,
-        "live": 1699,
-        "pushed": "2024-10-28"
+        "printed": 1,
+        "live": 1052,
+        "pushed": "2026-02-05"
       }
     },
     {
@@ -203,11 +189,11 @@
       "id": "metauto-ai/agent-as-a-judge",
       "title": "metauto-ai/agent-as-a-judge",
       "url": "https://github.com/metauto-ai/agent-as-a-judge",
-      "score": 798,
+      "score": 837,
       "action": "refresh",
       "evidence": {
         "printed": 400,
-        "live": 798,
+        "live": 837,
         "pushed": "2026-03-28"
       }
     },
@@ -217,26 +203,26 @@
       "id": "openai/mle-bench",
       "title": "openai/mle-bench",
       "url": "https://github.com/openai/mle-bench",
-      "score": 1624,
+      "score": 1780,
       "action": "refresh",
       "evidence": {
-        "printed": 2500,
-        "live": 1624,
+        "printed": 2,
+        "live": 1780,
         "pushed": "2026-04-24"
       }
     },
     {
       "domain": "tooling",
       "kind": "repo",
-      "id": "pytorch/ELF",
-      "title": "pytorch/ELF",
-      "url": "https://github.com/pytorch/ELF",
-      "score": 3413,
+      "id": "princeton-nlp/SWE-bench",
+      "title": "princeton-nlp/SWE-bench",
+      "url": "https://github.com/SWE-bench/SWE-bench",
+      "score": 6056,
       "action": "refresh",
       "evidence": {
-        "printed": 350,
-        "live": 3413,
-        "pushed": "2019-06-21"
+        "printed": 5000,
+        "live": 6056,
+        "pushed": "2026-09-18"
       }
     },
     {
@@ -245,12 +231,12 @@
       "id": "stanfordnlp/dspy",
       "title": "stanfordnlp/dspy",
       "url": "https://github.com/stanfordnlp/dspy",
-      "score": 36130,
+      "score": 38692,
       "action": "refresh",
       "evidence": {
         "printed": 22000,
-        "live": 36130,
-        "pushed": "2026-07-14"
+        "live": 38692,
+        "pushed": "2026-10-19"
       }
     },
     {
@@ -259,12 +245,27 @@
       "id": "letta-ai/letta",
       "title": "letta-ai/letta",
       "url": "https://github.com/letta-ai/letta",
-      "score": 23793,
+      "score": 25189,
       "action": "add",
       "evidence": {
-        "stars": 23793,
-        "pushed": "2026-07-03",
+        "stars": 25189,
+        "pushed": "2026-10-18",
         "desc": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+        "matched": "self-improving agent"
+      }
+    },
+    {
+      "domain": "tooling",
+      "kind": "repo",
+      "id": "PrimeIntellect-ai/prime-agent",
+      "title": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "score": 22166,
+      "action": "add",
+      "evidence": {
+        "stars": 22166,
+        "pushed": "2026-10-19",
+        "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
         "matched": "self-improving agent"
       }
     },
@@ -274,12 +275,42 @@
       "id": "MervinPraison/PraisonAI",
       "title": "MervinPraison/PraisonAI",
       "url": "https://github.com/MervinPraison/PraisonAI",
-      "score": 8448,
+      "score": 9270,
       "action": "add",
       "evidence": {
-        "stars": 8448,
-        "pushed": "2026-07-14",
+        "stars": 9270,
+        "pushed": "2026-10-19",
         "desc": "PraisonAI \ud83e\udd9e \u2014 Hire a 24/7 AI Workforce. Stop writing boilerplate and start shipping autonomous self-improving agents tha",
+        "matched": "self-improving agent"
+      }
+    },
+    {
+      "domain": "tooling",
+      "kind": "repo",
+      "id": "EverMind-AI/Raven",
+      "title": "EverMind-AI/Raven",
+      "url": "https://github.com/EverMind-AI/Raven",
+      "score": 5516,
+      "action": "add",
+      "evidence": {
+        "stars": 5516,
+        "pushed": "2026-10-19",
+        "desc": "The Harness of Harnesses \u2022 built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain coll",
+        "matched": "self-improving agent"
+      }
+    },
+    {
+      "domain": "tooling",
+      "kind": "repo",
+      "id": "kirodotdev/KiroCrew",
+      "title": "kirodotdev/KiroCrew",
+      "url": "https://github.com/kirodotdev/KiroCrew",
+      "score": 4490,
+      "action": "add",
+      "evidence": {
+        "stars": 4490,
+        "pushed": "2026-10-19",
+        "desc": "A persistent workspace for development work that self-improves and continues beyond one session.",
         "matched": "self-improving agent"
       }
     },
@@ -289,11 +320,11 @@
       "id": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
       "title": "TheBlewish/Automated-AI-Web-Researcher-Ollama",
       "url": "https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama",
-      "score": 2979,
+      "score": 3020,
       "action": "add",
       "evidence": {
-        "stars": 2979,
-        "pushed": "2024-12-14",
+        "stars": 3020,
+        "pushed": "2026-09-02",
         "desc": "A python program that turns an LLM, running on Ollama, into an automated researcher, which will with a single query dete",
         "matched": "automated AI research"
       }
@@ -301,15 +332,15 @@
     {
       "domain": "tooling",
       "kind": "repo",
-      "id": "facebookresearch/HyperAgents",
-      "title": "facebookresearch/HyperAgents",
-      "url": "https://github.com/facebookresearch/HyperAgents",
-      "score": 2637,
+      "id": "PhyAgentOS/PhyAgentOS-core",
+      "title": "PhyAgentOS/PhyAgentOS-core",
+      "url": "https://github.com/PhyAgentOS/PhyAgentOS-core",
+      "score": 2989,
       "action": "add",
       "evidence": {
-        "stars": 2637,
-        "pushed": "2026-05-09",
-        "desc": "Self-referential self-improving agents that can optimize for any computable task",
+        "stars": 2989,
+        "pushed": "2026-10-19",
+        "desc": "PhyAgentOS is a Recursive Self-Improving (RSI)  physical agent operating system that enables agents to recursively self-",
         "matched": "self-improving agent"
       }
     },
@@ -319,11 +350,11 @@
       "id": "JackHopkins/factorio-learning-environment",
       "title": "JackHopkins/factorio-learning-environment",
       "url": "https://github.com/JackHopkins/factorio-learning-environment",
-      "score": 1025,
+      "score": 1200,
       "action": "add",
       "evidence": {
-        "stars": 1025,
-        "pushed": "2026-06-11",
+        "stars": 1200,
+        "pushed": "2026-09-18",
         "desc": "A non-saturating, open-ended environment for evaluating LLMs in Factorio",
         "matched": "open-ended learning LLM"
       }
