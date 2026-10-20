@@ -375,6 +375,23 @@ Every top repo cited here is minted into a reusable **agentic skill** + a knowle
 
 ---
 
+## 🛰️ Frontier Radar
+
+_The latest surfaced from the people we follow via open arXiv/GitHub APIs (`scripts/track.py`, refreshed weekly). Surname-matched — verify the author._
+
+| Researcher | Most recent work | Date |
+|-----------|------------------|------|
+| Caiming Xiong | [MemT-1.0: Towards Memory-Native Evolution](http://arxiv.org/abs/2610.26825v1) | 2026-10-19 |
+| Chris Lu | [MemT-1.0: Towards Memory-Native Evolution](http://arxiv.org/abs/2610.26825v1) | 2026-10-19 |
+| Cong Lu | [MemT-1.0: Towards Memory-Native Evolution](http://arxiv.org/abs/2610.26825v1) | 2026-10-19 |
+| David Ha | [Agent World Model in the Wild: Computer-Use Agent Environment Synthesis](http://arxiv.org/abs/2610.26828v1) | 2026-10-19 |
+| Jakob Foerster | [Adversarial Post-Training of Foundation Models for High-Frequency Trading](http://arxiv.org/abs/2610.25604v1) | 2026-10-19 |
+| Jenny Zhang | [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1) | 2026-10-19 |
+| Jianguo Zhang | [OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory](http://arxiv.org/abs/2610.26860v1) | 2026-10-19 |
+| Mingchen Zhuge | [Measurement of the relative phase between the strong and electromagnetic amplitudes in $\boldsymbol{J/ψ\to Σ^{+} \barΣ^{-}}$](http://arxiv.org/abs/2610.26673v1) | 2026-10-19 |
+
+---
+
 ## 📅 Timeline: Key Milestones
 
 ```
