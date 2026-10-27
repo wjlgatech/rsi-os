@@ -375,6 +375,23 @@ Every top repo cited here is minted into a reusable **agentic skill** + a knowle
 
 ---
 
+## 🛰️ Frontier Radar
+
+_The latest surfaced from the people we follow via open arXiv/GitHub APIs (`scripts/track.py`, refreshed weekly). Surname-matched — verify the author._
+
+| Researcher | Most recent work | Date |
+|-----------|------------------|------|
+| Caiming Xiong | [Multi-Objective Reinforcement Learning Using Routed Ensembles and Trajectory Attribution](http://arxiv.org/abs/2610.35733v1) | 2026-10-26 |
+| Chris Lu | [Work Agents: Systems, Capabilities, and Optimization](http://arxiv.org/abs/2610.35845v1) | 2026-10-26 |
+| Cong Lu | [Work Agents: Systems, Capabilities, and Optimization](http://arxiv.org/abs/2610.35845v1) | 2026-10-26 |
+| David Ha | [Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeling](http://arxiv.org/abs/2610.35866v1) | 2026-10-26 |
+| Jenny Zhang | [VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation](http://arxiv.org/abs/2610.35864v1) | 2026-10-26 |
+| Jianguo Zhang | [VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation](http://arxiv.org/abs/2610.35864v1) | 2026-10-26 |
+| Josh Tobin | [Observation of the $T_{c\bar{c}1}(4430)^-$ state in $B^0\to D^{*-}D^0K^+$ decays](http://arxiv.org/abs/2610.35239v1) | 2026-10-26 |
+| Mingchen Zhuge | [First measurement of $ψ(3686)\to\bar{p} K^{+} Σ^{*}(1385)^{0} + c.c.$ and $ψ(3686)\to\bar{p} K^{*}(892)^{0} Σ^{+} + c.c.$](http://arxiv.org/abs/2610.34706v1) | 2026-10-26 |
+
+---
+
 ## 📅 Timeline: Key Milestones
 
 ```
