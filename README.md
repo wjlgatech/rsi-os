@@ -375,6 +375,23 @@ Every top repo cited here is minted into a reusable **agentic skill** + a knowle
 
 ---
 
+## 🛰️ Frontier Radar
+
+_The latest surfaced from the people we follow via open arXiv/GitHub APIs (`scripts/track.py`, refreshed weekly). Surname-matched — verify the author._
+
+| Researcher | Most recent work | Date |
+|-----------|------------------|------|
+| Caiming Xiong | [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) | 2026-11-02 |
+| Chris Lu | [PDFP: GPU-Accelerated Feasibility Pump via PDHG](http://arxiv.org/abs/2611.03629v1) | 2026-11-02 |
+| Cong Lu | [PDFP: GPU-Accelerated Feasibility Pump via PDHG](http://arxiv.org/abs/2611.03629v1) | 2026-11-02 |
+| David Ha | [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) | 2026-11-02 |
+| Jenny Zhang | [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) | 2026-11-02 |
+| Jianguo Zhang | [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) | 2026-11-02 |
+| Mingchen Zhuge | [Unlocking the Potential of Vision Foundation Models for Multi-Task Dense Prediction via Mixture of Task Adapters](http://arxiv.org/abs/2611.02769v1) | 2026-11-02 |
+| Minqi Jiang | [WebHarbor: Docking Real Websites for Evolving GUI Agent Environments](http://arxiv.org/abs/2611.03634v1) | 2026-11-02 |
+
+---
+
 ## 📅 Timeline: Key Milestones
 
 ```
