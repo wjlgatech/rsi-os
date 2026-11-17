@@ -375,6 +375,23 @@ Every top repo cited here is minted into a reusable **agentic skill** + a knowle
 
 ---
 
+## 🛰️ Frontier Radar
+
+_The latest surfaced from the people we follow via open arXiv/GitHub APIs (`scripts/track.py`, refreshed weekly). Surname-matched — verify the author._
+
+| Researcher | Most recent work | Date |
+|-----------|------------------|------|
+| Caiming Xiong | [MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos](http://arxiv.org/abs/2611.21339v1) | 2026-11-16 |
+| Chris Lu | [Resolving and Suppressing Temporally Correlated Noise in Quantum Error Correction](http://arxiv.org/abs/2611.21578v1) | 2026-11-16 |
+| Cong Lu | [Resolving and Suppressing Temporally Correlated Noise in Quantum Error Correction](http://arxiv.org/abs/2611.21578v1) | 2026-11-16 |
+| David Ha | [SADL: On the Demand-Supply Geometry of Representation Collapse](http://arxiv.org/abs/2611.21596v1) | 2026-11-16 |
+| Jenny Zhang | [Hyperkagome antiferromagnetism in the iron garnet Almandine Fe$_3$Al$_2$Si$_3$O$_{12}$](http://arxiv.org/abs/2611.21610v1) | 2026-11-16 |
+| Jianguo Zhang | [Hyperkagome antiferromagnetism in the iron garnet Almandine Fe$_3$Al$_2$Si$_3$O$_{12}$](http://arxiv.org/abs/2611.21610v1) | 2026-11-16 |
+| Minqi Jiang | [Resolving and Suppressing Temporally Correlated Noise in Quantum Error Correction](http://arxiv.org/abs/2611.21578v1) | 2026-11-16 |
+| Robert Tjarko Lange | [First observation of the decay $D_{s1}(2460)^{+} \to D_{s}^{*+}γ$ and measurement of the branching-fraction ratio $\mathcal{B}[D_{s1}(2460)^{+} \to D_{s}^{*+} γ]/\mathcal{B}[D_{s1}(2460)^{+} \to D_{s}^{+} γ]$](http://arxiv.org/abs/2611.20531v1) | 2026-11-16 |
+
+---
+
 ## 📅 Timeline: Key Milestones
 
 ```
